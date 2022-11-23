@@ -1,0 +1,65 @@
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8' />
+  <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+  <title>Document</title>
+
+  <style>
+    body {
+      min-height: 90vh;
+      background: #f5f5f5;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .heading {
+      text-align: center;
+      font-size: 40px;
+      width: 50%;
+      display: block;
+      line-height: 50px;
+      margin: 30px auto 60px;
+      text-transform: capitalize;
+    }
+
+    .heading span {
+      font-weight: 300;
+    }
+
+    .btn {
+      width: 200px;
+      height: 50px;
+      border-radius: 5px;
+      background: #383838;
+      color: #fff;
+      display: block;
+      margin: auto;
+      font-size: 18px;
+      text-transform: capitalize;
+      text-decoration: none;
+      text-align: center;
+      line-height: 50px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div>
+    <h1 class='heading'>dear
+      {{ name }},
+      <span>welcome to the best application ever in the world 🎉🎉🎉</span>
+    </h1>
+    <a href="{{ url }}" class='btn'>confirm</a>
+  </div>
+  <div style="margin-top: 20px;">
+    <p>If you did not request this email you can safely ignore it.</p>
+  </div>
+</body>
+
+</html>
