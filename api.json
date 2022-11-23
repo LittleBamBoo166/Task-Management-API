@@ -1,0 +1,121 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
+            "correct_answer": "Charcoal",
+            "incorrect_answers": [
+                "Coal",
+                "Wheat",
+                "String"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The first dual-core CPU was the Intel Pentium D.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
+            "correct_answer": "74",
+            "incorrect_answers": [
+                "88",
+                "49",
+                "62"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map introduced the perk &quot;PhD Flopper&quot;?",
+            "correct_answer": "Ascension",
+            "incorrect_answers": [
+                "Moon",
+                "Call Of The Dead",
+                "Die Rise"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "8",
+                "6",
+                "2"
+            ]
+        },
+        {
+            "category": "Science: Mathematics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "An equilateral triangle always has every angle measuring 60&deg;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which novelty band was best known for their UK chart hits &quot;Combine Harvester&quot; and &quot;I Am a Cider Drinker&quot; in 1976?",
+            "correct_answer": "The Wurzels",
+            "incorrect_answers": [
+                "Goldie Lookin Chain",
+                "Bonzo Dog Doo-Dah Band",
+                "The Firm"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was Britney Spears&#039; debut single?",
+            "correct_answer": "...Baby One More Time",
+            "incorrect_answers": [
+                "Oops!... I Did It Again",
+                "(You Drive Me) Crazy",
+                "Toxic"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Pheonix Wright: Ace Attorney&quot; which character is the District Chief of Police?",
+            "correct_answer": "Damon Gant",
+            "incorrect_answers": [
+                "Miles Edgeworth",
+                "Lana Skye",
+                "Mike Meekins"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+            "correct_answer": "Brooklyn",
+            "incorrect_answers": [
+                "Las Vegas",
+                "Boston",
+                "Seattle"
+            ]
+        }
+    ]
+}
